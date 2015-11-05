@@ -26,6 +26,7 @@ public class Intro {
             add("Clio");
             add("Toucan");
             add("Clare");
+            add("Burger Meister Meister Burger")
         }};
 
         // What this does is take each person and print to your terminal the
